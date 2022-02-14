@@ -1,7 +1,3 @@
 ## Batch Resize
-
-
-## Command
-```
-node index.js
-```
+* 修改 `resizeRatio`
+* 运行 `node resize.js`

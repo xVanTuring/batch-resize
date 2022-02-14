@@ -6,7 +6,7 @@ const { resolve } = require("path");
 const { readdir } = require("fs").promises;
 
 const sourceDir = `./source`;
-const max = 500;
+const max = 170; // 最宽、长
 
 let total = 0;
 let done = 0;
